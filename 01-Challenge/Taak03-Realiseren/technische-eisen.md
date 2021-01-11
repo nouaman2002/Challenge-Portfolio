@@ -28,7 +28,7 @@
 
 ### Javascript
 
-Je hebt nog niet heel veel ervaring met Javascript en je zal dit ook pas later echt gaan gebruiken om realistische functionaliteiten in te gaan bouwen op een website. Voor deze challenge voegen we een ietswat vergezocht stukje functionaliteit toe.
+Je hebt nog niet heel veel ervaring met Javascript en je zal dit ook pas later echt gaan gebruiken om realistische functionaliteiten in te gaan bouwen op een website. Voor deze challenge voegen we een ietwat vergezocht stukje functionaliteit toe.
 
 1. Zorg ervoor dat als een bezoeker op je pagina komt hij een Promt te zien krijgt die vraagt om de naam van de bezoeker. 
 2. Toon de ingevulde naam van de bezoeker op de pagina in een "Welkom ....!" gedeelte
@@ -87,7 +87,7 @@ Onderstaande lijst is een beknopt overzicht van de HTML/CSS en JS technieken die
 
 ## Live zetten mbv Github Pages
 
-Onderstaande video linked naar een korte introductie (1:05m) over Github Pages.
+Onderstaande video linkt naar een korte introductie (1:05m) over Github Pages.
 
 [![Wat is Github Pages?](https://img.youtube.com/vi/2MsN8gpT6jY/maxresdefault.jpg)](https://vib.by/v/XyYAbowfq)
 
